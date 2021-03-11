@@ -1,0 +1,15 @@
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\util\Leer.java
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\app\App.java
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\connection\dbConnection.java
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\modelo\Cliente.java
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\modelo\Producto.java
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\excepciones\DuplicateException.java
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\excepciones\PossibleDuplicateClientException.java
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\excepciones\ClientNotFound.java
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\dao\IClienteDAO.java
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\connection\Main.java
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\dao\ProductoDAO.java
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\excepciones\ClientException.java
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\dao\IProductoDAO.java
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\dao\ClienteDAO.java
+c:\Users\Uusuario.CRISTINA\Desktop\Practica1AD-Maven\ad\src\main\java\maven\App.java
